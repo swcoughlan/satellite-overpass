@@ -1,5 +1,5 @@
 # satellite-overpass
-A script to pull satellite overpass info for a given location from Spectator.Earth and write to a csv. 
+A script to pull satellite overpass info for a given location from the Spectator Earth API (https://spectator.earth/) and write to a csv. 
 
 Satellites:
 
