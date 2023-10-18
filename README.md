@@ -10,5 +10,5 @@ Satellites:
 * Sentinel-3A 
 * Sentinel-3B
 * Landsat-8
-* 
+
 The area of interest can be defined using the variable 'bbox'. It's currently set to Dublin Bay. 
